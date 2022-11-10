@@ -45,7 +45,7 @@ function App() {
   return (
     <div className="App">
       <header>
-      <h1>A Simple TODO Application</h1>
+      <h1>Task Manager</h1>
       </header>
       <Form 
       todos={todos}
